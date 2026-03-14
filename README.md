@@ -4,7 +4,7 @@ A simple GUI calculator built with Python and Tkinter.
 
 ## Preview
 
-![Preview](calculator-preview.png)
+![Preview](Screenshot%202026-03-15%20023130.png)
 
 ## Features
 
